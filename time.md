@@ -11,7 +11,6 @@ team ceremonies  0.25
  | Time          | Task            | Description                                   |
 |---------------|-----------------|-----------------------------------------------|
 | 8:00AM        | e-mails         | Check up and answer e-mails for the day       |
-| 9:15AM        | team ceremonies | Daily stand up                                |
 | 9:30AM        | work item 123   | Unit test production issue                    |
 | 12:00PM       | lunch           | Eat lunch                                     |
 | 1:00PM        | lead meeting    | Meeting with lead's on the team.              |
